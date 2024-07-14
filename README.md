@@ -1,8 +1,8 @@
 ![Ron in a square](ron025533.png)
 
-## Hi there 🎲🏓
+## Hi there 🏓🍹
 
-Fusing creativity and code to bring awesome projects to life.
+Let's blend creativity and code to make magic happen.
 
 <!--
 **ron025533/ron025533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
